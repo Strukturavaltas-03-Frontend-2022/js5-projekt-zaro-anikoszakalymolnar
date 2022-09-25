@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #04AA6D;
+    color: white;
+}
+
+th,
+td {
+    padding: 5px;
+    text-align: left;
+    vertical-align: center;
+}
+
+tr:nth-child(even) {
+    background: #CCC
+}
+
+tr:nth-child(odd) {
+    background: #FFF
+}
+
+tr:hover {
+    background-color: coral;
+}
+
+input[type="text"] {
+    background: transparent;
+    border: none;
+}
