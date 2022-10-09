@@ -67,10 +67,22 @@
       "address": "65 Westport Lane"
     },
     {
+      "id": 12,
+      "name": "Terri-jo Fairbairn",
+      "emailAddress": "tfairbairnb@bloglovin.com",
+      "address": "44 John Wall Court"
+    },
+    {
       "id": 13,
       "name": "Pammi Francklin",
       "emailAddress": "pfrancklinc@digg.com",
       "address": "9 Scott Lane"
+    },
+    {
+      "id": 14,
+      "name": "Roderic Renols",
+      "emailAddress": "rrenolsd@amazon.com",
+      "address": "27549 Rutledge Street"
     },
     {
       "id": 15,
@@ -176,7 +188,7 @@
     },
     {
       "id": 32,
-      "name": "Anne-marie Swinn2",
+      "name": "Anne-marie Swinn",
       "emailAddress": "aswinnv@ca.gov",
       "address": "5583 Prairie Rose Court"
     },
@@ -296,7 +308,7 @@
     },
     {
       "id": 52,
-      "name": "Shela Weeke2",
+      "name": "Shela Weeke",
       "emailAddress": "sweeke1f@icq.com",
       "address": "44 Pleasure Plaza"
     },
@@ -305,6 +317,12 @@
       "name": "Hendrika Selwyne",
       "emailAddress": "hselwyne1g@wordpress.com",
       "address": "864 Nobel Plaza"
+    },
+    {
+      "id": 54,
+      "name": "Judy Trew",
+      "emailAddress": "jtrew1h@gravatar.com",
+      "address": "12501 Jenna Crossing"
     },
     {
       "id": 55,
